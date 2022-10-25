@@ -1,14 +1,1 @@
-[
-	{
-		"country": "Mexico",
-		"flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png",
-		"group": "C",
-		"id": 2
-	},
-	{
-		"country": "Argentina",
-		"flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",
-		"group": "C",
-		"id": 3
-	}
-]
+[{"country":"Mexico","flag_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png","group":"C","id":2},{"country":"Argentina","flag_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png","group":"C","id":3},{"country":"Arabia","flag_url":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F005%2F078%2F558%2Fnon_2x%2Fsaudi-arabia-flag-vector.jpg&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F5078558-bandera-arabia-saudita&tbnid=aCIEk1YVfzhEnM&vet=12ahUKEwjWjteYg_z6AhVSrZUCHUobD_wQMygCegUIARDzAQ..i&docid=pIDqqkS1A9IITM&w=1820&h=980&q=bandera%20de%20arabia%20saudita&ved=2ahUKEwjWjteYg_z6AhVSrZUCHUobD_wQMygCegUIARDzAQ","group":"C","id":7}]
