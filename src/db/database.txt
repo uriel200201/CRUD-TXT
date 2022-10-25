@@ -1,1 +1,14 @@
-[{"country":"Mexico","flag_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png","group":"C","id":2},{"country":"Argentina","flag_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png","group":"C","id":3}]
+[
+	{
+		"country": "Mexico",
+		"flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png",
+		"group": "C",
+		"id": 2
+	},
+	{
+		"country": "Argentina",
+		"flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",
+		"group": "C",
+		"id": 3
+	}
+]
